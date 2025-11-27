@@ -1,0 +1,7 @@
+{
+  "name": "Absensi Gajah Mada",
+  "description": "Professional attendance system for schools and employees with geolocation and admin reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
